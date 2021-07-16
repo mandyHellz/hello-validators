@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color: #0f465c;
+}
+
+input {
+  line-height: 20px;
+  color: blueviolet;
+  margin: 10px;
+  padding: 0 40px;
+}
